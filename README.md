@@ -129,4 +129,4 @@ Research: Youth-centered AI design, privacy governance, age-appropriate technolo
 
 ## License
 
-CC BY-NC 4.0
+MIT License
