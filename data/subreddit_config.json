@@ -1,0 +1,67 @@
+{
+  "categories": {
+    "youth_focused": {
+      "description": "Subreddits primarily used by and targeting teen/youth users",
+      "subreddits": [
+        {"name": "AskTeenBoys", "members": 49700},
+        {"name": "AskTeenGirls", "members": 45000},
+        {"name": "ATBandATGcommunity", "members": 1300},
+        {"name": "teenagers", "members": 2900000},
+        {"name": "TeensMeetTeens", "members": 59800},
+        {"name": "GenZ", "members": 73300},
+        {"name": "teenagersnew", "members": 130000},
+        {"name": "PansexualTeens", "members": 10500},
+        {"name": "BisexualTeens", "members": 145000},
+        {"name": "GayBroTeens", "members": 17300},
+        {"name": "FellowKids", "members": 1100000},
+        {"name": "AdviceForTeens", "members": 8800},
+        {"name": "teenagersbutbetter", "members": 15600}
+      ]
+    },
+    "parent_focused": {
+      "description": "Subreddits primarily used by parents and caregivers",
+      "subreddits": [
+        {"name": "Parenting", "members": 5300000},
+        {"name": "ScienceBasedParenting", "members": 72600},
+        {"name": "breakingmom", "members": 112000},
+        {"name": "raisingkids", "members": 47800},
+        {"name": "daddit", "members": 641000},
+        {"name": "Mommit", "members": 832000},
+        {"name": "parentingteenagers", "members": 8100},
+        {"name": "AskParents", "members": 188000},
+        {"name": "SingleParents", "members": 118000},
+        {"name": "ParentingTech", "members": 2000}
+      ]
+    },
+    "technology_focused": {
+      "description": "Subreddits focused on technology topics and discussion",
+      "subreddits": [
+        {"name": "technology", "members": 14000000},
+        {"name": "informationtechnology", "members": 30900},
+        {"name": "futurology", "members": 18500000},
+        {"name": "ArtificialIntelligence", "members": 133000},
+        {"name": "MachineLearning", "members": 2600000},
+        {"name": "programming", "members": 5300000},
+        {"name": "science", "members": 29900000},
+        {"name": "computerscience", "members": 336000},
+        {"name": "geek", "members": 579000},
+        {"name": "TechnologyProTips", "members": 31100},
+        {"name": "AskTechnology", "members": 33300},
+        {"name": "privacy", "members": 1300000},
+        {"name": "iiiiiiitttttttttttt", "members": 300000},
+        {"name": "tech", "members": 552000},
+        {"name": "technews", "members": 640000},
+        {"name": "privacytoolsIO", "members": 206000},
+        {"name": "PrivacyGuides", "members": 55400}
+      ]
+    }
+  },
+  "data_collection": {
+    "time_range": {
+      "start": "2022-04-01",
+      "end": "2023-04-01"
+    },
+    "fields": ["id", "author", "created_utc", "score", "subreddit", "body", "parent_id"],
+    "api": "Pushshift"
+  }
+}
