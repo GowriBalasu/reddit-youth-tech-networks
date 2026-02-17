@@ -90,10 +90,6 @@ Understanding how different age groups engage with technology discourse online h
 
 This project is part of a broader research agenda on **youth-centered AI design** and **age-appropriate technology governance**. The network analysis methodology serves as a computational complement to qualitative interview and focus group research with young people (ages 11–17) on their perceptions of AI systems.
 
-Related work:
-- Balasubramaniam, G. et al. (2024). *[CHI 2024 publication on surveillance technology]*
-- Dissertation: *"Seen, Not Surveilled: Youth-Centered Perspectives on Age-Appropriate Artificial Intelligence"* (in progress)
-
 ## Installation & Usage
 
 ```bash
